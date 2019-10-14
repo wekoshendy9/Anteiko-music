@@ -1,0 +1,6 @@
+owner=632373241729515561
+prefix=A
+game=Anteiku
+stayinchannel=true
+songinstatus=false
+token=NjMzMzAzNjAxMzY4MDA2NjU2.XaSBEA.AXgW0ymkLpNLfkrWnbMCnHv59W8
